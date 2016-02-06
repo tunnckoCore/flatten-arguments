@@ -1,0 +1,41 @@
+{
+  "name": "flatten-arguments",
+  "version": "0.0.0",
+  "description": "Fastest, simplest and smallest. Pass `arguments` object or list of arguments and get flattened array.",
+  "repository": "tunnckoCore/flatten-arguments",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "precommit.silent": true,
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {
+    "arr-flatten": "^1.0.1",
+    "is-arguments": "^1.0.2",
+    "manage-arguments": "^1.0.0"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0",
+    "pre-commit": "*"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "args",
+    "arguments",
+    "arr",
+    "array",
+    "fast",
+    "fastest",
+    "flat",
+    "flatten",
+    "flatten-arguments",
+    "flattenify",
+    "get",
+    "list",
+    "simple",
+    "small"
+  ]
+}
