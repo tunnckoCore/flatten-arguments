@@ -1,6 +1,6 @@
 {
   "name": "flatten-arguments",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Fastest, simplest and smallest. Pass `arguments` object or list of arguments and get flattened array.",
   "repository": "tunnckoCore/flatten-arguments",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
