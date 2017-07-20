@@ -16,8 +16,8 @@
     "manage-arguments": "^1.0.0"
   },
   "devDependencies": {
-    "assertit": "^0.1.0",
-    "pre-commit": "*"
+    "assertit": "0.1.0",
+    "pre-commit": "1.2.2"
   },
   "files": [
     "index.js"
